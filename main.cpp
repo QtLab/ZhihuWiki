@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
 ///		get->hadnle(login);
 
 	// 登录有问题，暂时不使用登录功能
-//	Login* login = new Login("12319597@qq.com", "setPsw(\"zh\")");
+//	Login* login = new Login("", "");
 //	login->setHost("www.zhihu.com");
 //	login->setUrl( "http://www.zhihu.com/#signin" );
 //	post->handle(login);
